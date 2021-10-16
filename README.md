@@ -17,11 +17,4 @@ if(arg)
 
 https://user-images.githubusercontent.com/68705183/136991071-78469574-86ec-4507-9b89-4f53acf6416a.mp4
 
-Development team
-
-Hasantha
-Vihangi
-Thilini
-Rajitha
-Vikum
-
+--
